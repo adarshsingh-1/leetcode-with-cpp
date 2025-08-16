@@ -10,4 +10,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1448-maximum-69-number) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
