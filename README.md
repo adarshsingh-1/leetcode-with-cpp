@@ -15,6 +15,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0231-power-of-two) |
 | [1448-maximum-69-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1448-maximum-69-number) |
 ## Greedy
@@ -24,5 +25,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
