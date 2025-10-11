@@ -9,6 +9,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -27,4 +28,12 @@
 | ------- |
 | [0050-powx-n](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
