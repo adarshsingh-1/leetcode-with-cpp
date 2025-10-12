@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0371-sum-of-two-integers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
@@ -20,6 +21,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0371-sum-of-two-integers) |
 | [1448-maximum-69-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1448-maximum-69-number) |
 ## Greedy
@@ -36,8 +38,21 @@
 | ------- |
 | [0078-subsets](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
