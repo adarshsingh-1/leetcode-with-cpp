@@ -18,6 +18,7 @@ public:
             while (i >= 0 && s[i] != ' ') {
                 i--;
             }
+            //extract the word
             string word = s.substr(i + 1, j-i);
             if (!ans.empty()) {
                 ans += ' ';
