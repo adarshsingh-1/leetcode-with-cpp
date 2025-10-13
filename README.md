@@ -55,4 +55,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
