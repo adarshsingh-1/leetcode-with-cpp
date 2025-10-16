@@ -24,10 +24,12 @@
 | [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0371-sum-of-two-integers) |
 | [1448-maximum-69-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
