@@ -49,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -57,12 +58,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
