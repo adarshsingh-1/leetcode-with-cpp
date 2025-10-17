@@ -23,6 +23,7 @@
 | [0231-power-of-two](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -70,6 +71,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/2032-largest-odd-number-in-string) |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0451-sort-characters-by-frequency) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
