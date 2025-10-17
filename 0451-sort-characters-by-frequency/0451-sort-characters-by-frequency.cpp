@@ -23,7 +23,7 @@ public:
 
         //building the final sorted string
         string ans;
-        for(auto &p: freq){
+        for(auto p: freq){
             ans.append(p.second, p.first);
         }
         return ans;
