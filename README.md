@@ -73,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0647-palindromic-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0412-fizz-buzz) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
