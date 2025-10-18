@@ -54,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0647-palindromic-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1078-remove-outermost-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/adarshsingh-1/leetcode-with-cpp/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
